@@ -1,0 +1,10 @@
+date,time,location,vehicle_count
+2025-01-01,08:00,Chennai_Main_Road,120
+2025-01-01,09:00,Chennai_Main_Road,200
+2025-01-01,10:00,Chennai_Main_Road,150
+2025-01-01,17:00,Chennai_Main_Road,300
+2025-01-01,18:00,Chennai_Main_Road,350
+2025-01-02,08:00,Chennai_Main_Road,130
+2025-01-02,09:00,Chennai_Main_Road,210
+2025-01-02,17:00,Chennai_Main_Road,320
+2025-01-02,18:00,Chennai_Main_Road,370
